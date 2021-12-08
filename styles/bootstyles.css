@@ -1,0 +1,58 @@
+body {
+    background-color: #e6fdff;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+div {
+    text-align: left;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif, italics;
+}
+.tables_div{
+    width:100w;
+}
+nav {
+    float:right;
+    position: relative;
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif, cursive;
+}
+footer {
+    font-family: 'Times New Roman', Times, serif, italics;
+    position: center;
+}
+.float_text_right{
+    float:right;
+}
+.float_text_left{
+    float:left;
+}
+.tableau {
+    width:  80vw;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.center_text{
+    text-align:center;
+}
+.container{
+    width:100vw;
+    text-align:center;
+}
+.header{
+    width:90vw;
+    height: 100px;
+}
+nav {
+    font-family: 'Times New Roman', Times, serif, bold; 
+    font-size: large; color:rgb(255, 127, 127); background-color: beige;
+} 
+footer {
+    font-family: 'Times New Roman', Times, serif, italics;
+}
+body {
+    font-family:'Times New Roman', Times, serif, italics
+}
